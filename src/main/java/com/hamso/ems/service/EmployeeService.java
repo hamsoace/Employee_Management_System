@@ -1,4 +1,10 @@
 package com.hamso.ems.service;
 
-public class EmployeeService {
+
+import com.hamso.ems.model.Employee;
+
+import java.util.List;
+
+public interface EmployeeService {
+    List<Employee> getAllEmployees();
 }
