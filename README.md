@@ -1,4 +1,4 @@
-### WORLD LIFE
+### EMPLOYEE MANAGEMENT SYSTEM
 
 An employee management system that lets you register, delete and update employee names and email addresses to the system.
 
